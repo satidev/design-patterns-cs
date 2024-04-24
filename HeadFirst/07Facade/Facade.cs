@@ -5,9 +5,9 @@ public class Facade
     public void SimplifiedInterface()
     {
         Subsystem subsystem = new Subsystem();
-        subsystem.operation1();
-        subsystem.operation2();
-        subsystem.operation3();
-        subsystem.operation4();
+        subsystem.Operation1();
+        subsystem.Operation2();
+        subsystem.Operation3();
+        subsystem.Operation4();
     }
 }

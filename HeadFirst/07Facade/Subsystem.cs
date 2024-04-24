@@ -2,19 +2,19 @@ namespace HeadFirst._07Facade;
 
 public class Subsystem
 {
-    public void operation1()
+    public void Operation1()
     {
        
     }
-    public void operation2()
+    public void Operation2()
     {
         
     } 
-    public void operation3()
+    public void Operation3()
     {
         
     }
-    public void operation4()
+    public void Operation4()
     {
         
     }      
