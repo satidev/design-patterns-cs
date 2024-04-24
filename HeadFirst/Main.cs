@@ -11,6 +11,7 @@ public class MainObject
         //HeadFirst._03Decorator.DecoratorDemo.Run();
         //HeadFirst._04Factory.FactoryMethod.FactoryMethodDemo.Run();
         //HeadFirst._05Singleton.SingletonDemo.Run();
-        HeadFirst._07Adaptor.AdaptorDemo.ClientCode();
+        //HeadFirst._07Adaptor.AdaptorDemo.ClientCode();
+        HeadFirst._07Facade.FacadeDemo.Run();
     }
 }
